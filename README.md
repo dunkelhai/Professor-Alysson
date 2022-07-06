@@ -1,2 +1,2 @@
 # Professor Alysson
-Repositório dedicado às atividades e projetos desenvolvidos pelo Professor Alysson para trabalhar em aulas com os alunos dos cursos ministrados.
+Repositório dedicado às atividades e projetos de cunho educacional, desenvolvidos por mim, para trabalhar em aulas com os alunos dos cursos que ministro.
